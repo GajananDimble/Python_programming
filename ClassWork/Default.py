@@ -1,0 +1,13 @@
+def Area(Radius,PI=3.14):
+    Ans = PI * Radius *Radius
+    return Ans
+
+def main():
+    Ret=Area(10.5)
+    print("Area Of Circle:",Ret)
+
+    Ret=Area(10.5,7.12)
+    print("Area Of Circle:",Ret)
+    
+if __name__ =="__main__":
+    main()
