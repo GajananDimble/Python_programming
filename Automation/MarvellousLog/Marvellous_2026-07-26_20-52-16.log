@@ -1,0 +1,1557 @@
+__________________________________________________
+_____Marvellous Platform Survillence System_____
+Log file gets created at :2026-07-26_20-52-16
+__________________________________________________
+----------Sysytem report----------
+Number of active CPU usage : 8
+CPU usage : 3.7 %
+__________________________________________________
+RAM usage : 69.8 %
+Total RAM available : 8425533440
+__________________________________________________
+Network Usage Report
+Sent : 16.218416 MB
+Recieve : 32.129538 MB
+PID : 0
+Name: System Idle Process
+UserName: NT AUTHORITY\SYSTEM
+Status : running
+CPU Usage : 772.80
+RAM Usage : 0.00
+__________________________________________________
+PID : 4
+Name: System
+UserName: NT AUTHORITY\SYSTEM
+Status : running
+CPU Usage : 2.70
+RAM Usage : 0.07
+__________________________________________________
+PID : 140
+Name: 
+UserName: None
+Status : stopped
+CPU Usage : 0.00
+RAM Usage : 0.48
+__________________________________________________
+PID : 184
+Name: Registry
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.22
+__________________________________________________
+PID : 684
+Name: smss.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.02
+__________________________________________________
+PID : 708
+Name: winlogon.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 904
+Name: csrss.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 976
+Name: services.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 984
+Name: wininit.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 992
+Name: csrss.exe
+UserName: None
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.09
+__________________________________________________
+PID : 1032
+Name: LsaIso.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 1052
+Name: lsass.exe
+UserName: None
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.30
+__________________________________________________
+PID : 1112
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.13
+__________________________________________________
+PID : 1156
+Name: StartMenuExperienceHost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.48
+__________________________________________________
+PID : 1196
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.50
+__________________________________________________
+PID : 1244
+Name: fontdrvhost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 1252
+Name: fontdrvhost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 1364
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.26
+__________________________________________________
+PID : 1412
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 1468
+Name: WUDFHost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 1556
+Name: dwm.exe
+UserName: None
+Status : running
+CPU Usage : 3.20
+RAM Usage : 1.16
+__________________________________________________
+PID : 1600
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 1636
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 1660
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 1748
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 1772
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.17
+__________________________________________________
+PID : 1780
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 1796
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 1888
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.18
+__________________________________________________
+PID : 1916
+Name: IntelCpHDCPSvc.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 1928
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 1948
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 2060
+Name: IntelCpHeciSvc.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 2108
+Name: ShellHost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.58
+__________________________________________________
+PID : 2140
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 2148
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.27
+__________________________________________________
+PID : 2204
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 2212
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 2252
+Name: AppHelperCap.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.39
+__________________________________________________
+PID : 2304
+Name: NetworkCap.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.37
+__________________________________________________
+PID : 2408
+Name: DiagsCap.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.39
+__________________________________________________
+PID : 2472
+Name: SynTPEnhService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 2544
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 2564
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.07
+__________________________________________________
+PID : 2576
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.15
+__________________________________________________
+PID : 2612
+Name: SysInfoCap.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.45
+__________________________________________________
+PID : 2684
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 2756
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.23
+__________________________________________________
+PID : 2764
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 2772
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 2900
+Name: MemCompression
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.78
+__________________________________________________
+PID : 2952
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 3008
+Name: igfxCUIService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 3068
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 3224
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 3276
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.23
+__________________________________________________
+PID : 3496
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.13
+__________________________________________________
+PID : 3540
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 3552
+Name: RuntimeBroker.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.36
+__________________________________________________
+PID : 3604
+Name: HotKeyServiceUWP.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.41
+__________________________________________________
+PID : 3700
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 3788
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 3800
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 3824
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 4132
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 4260
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.29
+__________________________________________________
+PID : 4276
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.93
+__________________________________________________
+PID : 4376
+Name: unsecapp.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 4388
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 4436
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 4512
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 4540
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 4544
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.73
+__________________________________________________
+PID : 4588
+Name: tbtsvc.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 4592
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.75
+__________________________________________________
+PID : 4644
+Name: WmiPrvSE.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 4664
+Name: spoolsv.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.22
+__________________________________________________
+PID : 4752
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 1.26
+__________________________________________________
+PID : 4776
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 4820
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 4828
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 1.80
+RAM Usage : 1.77
+__________________________________________________
+PID : 5068
+Name: elevation_service.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 5104
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 5128
+Name: CxUtilSvc.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 5136
+Name: OneApp.IGCC.WinService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.51
+__________________________________________________
+PID : 5144
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.66
+__________________________________________________
+PID : 5160
+Name: esif_uf.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 5172
+Name: CxAudioSvc.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.35
+__________________________________________________
+PID : 5188
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.61
+__________________________________________________
+PID : 5208
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 5228
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 5256
+Name: MpDefenderCoreService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.29
+__________________________________________________
+PID : 5296
+Name: SearchHost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.83
+__________________________________________________
+PID : 5432
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 5460
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.33
+__________________________________________________
+PID : 5504
+Name: XtuService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.60
+__________________________________________________
+PID : 5516
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.35
+__________________________________________________
+PID : 5568
+Name: MsMpEng.exe
+UserName: None
+Status : running
+CPU Usage : 0.50
+RAM Usage : 1.83
+__________________________________________________
+PID : 5624
+Name: WindowsTerminal.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 1.20
+RAM Usage : 1.04
+__________________________________________________
+PID : 5640
+Name: mongod.exe
+UserName: None
+Status : running
+CPU Usage : 2.80
+RAM Usage : 0.49
+__________________________________________________
+PID : 5744
+Name: powershell.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.74
+__________________________________________________
+PID : 5748
+Name: msedge.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 1.20
+RAM Usage : 1.63
+__________________________________________________
+PID : 5804
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 5932
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.69
+__________________________________________________
+PID : 5968
+Name: LanWlanWwanSwitchingServiceUWP.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 6208
+Name: RuntimeBroker.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 6228
+Name: OpenConsole.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 6264
+Name: unsecapp.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 6324
+Name: pet.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 6440
+Name: jhi_service.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 6624
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.38
+__________________________________________________
+PID : 6744
+Name: SynTPEnh.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.40
+RAM Usage : 0.29
+__________________________________________________
+PID : 6916
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 6972
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 7068
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 7112
+Name: sihost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.60
+__________________________________________________
+PID : 7132
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.50
+__________________________________________________
+PID : 7360
+Name: ApplicationFrameHost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.54
+__________________________________________________
+PID : 7384
+Name: WUDFHost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 7392
+Name: MicTray64.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 7424
+Name: taskhostw.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 7476
+Name: igfxEM.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 7532
+Name: TextInputHost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.30
+RAM Usage : 0.97
+__________________________________________________
+PID : 7564
+Name: WUDFHost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 7576
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.32
+__________________________________________________
+PID : 7584
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 7600
+Name: wlanext.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 7616
+Name: ShellExperienceHost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : stopped
+CPU Usage : 0.00
+RAM Usage : 1.01
+__________________________________________________
+PID : 7704
+Name: SystemSettings.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : stopped
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 7880
+Name: SearchProtocolHost.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.17
+__________________________________________________
+PID : 7936
+Name: cmd.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 8088
+Name: WidgetBoard.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 1.17
+__________________________________________________
+PID : 8232
+Name: CrossDeviceResume.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.68
+__________________________________________________
+PID : 8280
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 1.28
+__________________________________________________
+PID : 8300
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 1.22
+__________________________________________________
+PID : 8396
+Name: explorer.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.70
+RAM Usage : 2.70
+__________________________________________________
+PID : 8484
+Name: RuntimeBroker.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 8552
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.54
+__________________________________________________
+PID : 8628
+Name: AggregatorHost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 8688
+Name: RuntimeBroker.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.59
+__________________________________________________
+PID : 8780
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 8852
+Name: Thunderbolt.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 8964
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.29
+__________________________________________________
+PID : 8980
+Name: FileCoAuth.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.32
+__________________________________________________
+PID : 9008
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 9256
+Name: RuntimeBroker.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 9580
+Name: HPHotkeyNotification.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.43
+__________________________________________________
+PID : 9804
+Name: HPAudioAnalytics.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.17
+__________________________________________________
+PID : 9840
+Name: WidgetService.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.34
+__________________________________________________
+PID : 9916
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.49
+__________________________________________________
+PID : 10024
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 4.33
+__________________________________________________
+PID : 10092
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 10200
+Name: LockApp.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : stopped
+CPU Usage : 0.00
+RAM Usage : 0.97
+__________________________________________________
+PID : 10260
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.52
+__________________________________________________
+PID : 10272
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.65
+__________________________________________________
+PID : 10424
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 10640
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.84
+__________________________________________________
+PID : 10652
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 10708
+Name: OpenConsole.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 10812
+Name: taskhostw.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 10904
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.99
+__________________________________________________
+PID : 10996
+Name: ctfmon.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.30
+RAM Usage : 0.42
+__________________________________________________
+PID : 11084
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 11188
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 8.41
+__________________________________________________
+PID : 11208
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 11260
+Name: msedge.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 2.07
+__________________________________________________
+PID : 11336
+Name: PrivacyIconClient.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 11352
+Name: M365Copilot.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.92
+__________________________________________________
+PID : 11372
+Name: Flow.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.87
+__________________________________________________
+PID : 11396
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.68
+__________________________________________________
+PID : 11560
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.30
+__________________________________________________
+PID : 11568
+Name: conhost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 11576
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.41
+__________________________________________________
+PID : 11644
+Name: WhatsApp.Root.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.30
+RAM Usage : 3.25
+__________________________________________________
+PID : 11756
+Name: MicrosoftStartFeedProvider.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.53
+__________________________________________________
+PID : 11980
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 12092
+Name: SearchIndexer.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.37
+__________________________________________________
+PID : 12452
+Name: NisSrv.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 12568
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.44
+__________________________________________________
+PID : 12584
+Name: SecurityHealthSystray.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.17
+__________________________________________________
+PID : 12640
+Name: SecurityHealthService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.31
+__________________________________________________
+PID : 12792
+Name: OneDrive.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.90
+__________________________________________________
+PID : 12868
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 1.40
+RAM Usage : 4.92
+__________________________________________________
+PID : 13440
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 13468
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 13512
+Name: OpenConsole.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 13736
+Name: powershell.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.20
+RAM Usage : 0.71
+__________________________________________________
+PID : 13756
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.29
+__________________________________________________
+PID : 13876
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.30
+RAM Usage : 0.72
+__________________________________________________
+PID : 13904
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 14072
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 14080
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 14148
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 14224
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.10
+RAM Usage : 1.45
+__________________________________________________
+PID : 14228
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 14384
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 14392
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 14408
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 3.82
+__________________________________________________
+PID : 14424
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 14604
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 14700
+Name: conhost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 14812
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 14940
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 14996
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.85
+__________________________________________________
+PID : 15000
+Name: LMS.exe
+UserName: None
+Status : running
+CPU Usage : 0.10
+RAM Usage : 0.25
+__________________________________________________
+PID : 15172
+Name: Code.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.80
+RAM Usage : 1.73
+__________________________________________________
+PID : 15184
+Name: msedge.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.57
+__________________________________________________
+PID : 15208
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.17
+__________________________________________________
+PID : 16136
+Name: svchost.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 16204
+Name: RuntimeBroker.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.50
+__________________________________________________
+PID : 16992
+Name: msedgewebview2.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 18092
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 18164
+Name: msedge.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.59
+__________________________________________________
+PID : 19012
+Name: msedge.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.26
+__________________________________________________
+PID : 19036
+Name: msedge.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.45
+__________________________________________________
+PID : 19064
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 19212
+Name: smartscreen.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 19380
+Name: python.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 2.20
+RAM Usage : 0.29
+__________________________________________________
+PID : 19676
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 20100
+Name: msedge.exe
+UserName: DESKTOP-329CVJG\Gajanan
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+__________________________________________________
+----------End of log file----------
+__________________________________________________
